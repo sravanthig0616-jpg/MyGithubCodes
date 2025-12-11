@@ -1,0 +1,1 @@
+print("Starter for game-of-life")

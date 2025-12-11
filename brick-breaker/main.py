@@ -1,0 +1,1 @@
+print("Starter for brick-breaker")

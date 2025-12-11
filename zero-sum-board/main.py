@@ -1,0 +1,1 @@
+print("Starter for zero-sum-board")
