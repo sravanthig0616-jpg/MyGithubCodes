@@ -1,1 +1,0 @@
-print("Starter for 15-puzzle")
